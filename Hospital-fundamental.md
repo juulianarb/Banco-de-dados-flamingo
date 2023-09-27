@@ -40,4 +40,5 @@ Script SQL do diagrama :
 
 ![partelogica1](https://github.com/juulianarb/Banco-de-dados-flamingo/assets/127902970/b3fd0a3f-a6e5-4ef0-9ed9-4019e3e172d5)
 
+"PARTE 3 - Alimentando o banco de dados". 
 
