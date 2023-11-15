@@ -86,3 +86,27 @@ Os dados de tipo de quarto, convênio e especialidade são essenciais para a ope
 
 A parte 3 desta atividade, está disponível no arquivo ''Parte3''.
 
+PARTE 4:
+
+"PARTE 4 - Alterando o banco de dados". 
+
+Crie um script que adicione uma coluna “em_atividade” para os médicos, indicando se ele ainda está atuando no hospital ou não. 
+
+Resposta: alter table medico add column em_atividade varchar(30);
+
+Crie um script para atualizar ao menos dois médicos como inativos e os demais em atividade.
+
+Resposta: 
+UPDATE `hospital`.`medico` SET `em_atividade` = 'inativo' WHERE (`id` = '3');
+UPDATE `hospital`.`medico` SET `em_atividade` = 'inativo' WHERE (`id` = '5');
+UPDATE `hospital`.`medico` SET `em_atividade` = 'ativo' WHERE (`id` = '1');
+UPDATE `hospital`.`medico` SET `em_atividade` = 'ativo' WHERE (`id` = '2');
+UPDATE `hospital`.`medico` SET `em_atividade` = 'ativo' WHERE (`id` = '4');
+UPDATE `hospital`.`medico` SET `em_atividade` = 'ativo' WHERE (`id` = '6');
+UPDATE `hospital`.`medico` SET `em_atividade` = 'ativo' WHERE (`id` = '7');
+UPDATE `hospital`.`medico` SET `em_atividade` = 'ativo' WHERE (`id` = '8');
+UPDATE `hospital`.`medico` SET `em_atividade` = 'ativo' WHERE (`id` = '9');
+UPDATE `hospital`.`medico` SET `em_atividade` = 'ativo' WHERE (`id` = '10');
+
+
+A parte 4 desta atividade, está disponível no arquivo ''Parte4''.
