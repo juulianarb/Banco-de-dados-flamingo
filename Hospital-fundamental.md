@@ -97,3 +97,6 @@ Crie um script para atualizar ao menos dois médicos como inativos e os demais e
 
 
 A parte 4 desta atividade, está disponível no arquivo ''Parte4''.
+
+
+
