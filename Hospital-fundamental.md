@@ -84,5 +84,5 @@ Inclua dados de dez profissionais de enfermaria. Associe cada internação a ao 
 Os dados de tipo de quarto, convênio e especialidade são essenciais para a operação do sistema e, portanto, devem ser povoados assim que o sistema for instalado.
 
 
-A parte 3 da atividade está disponível no arquivo ''Parte3''.
+A parte 3 desta atividade, está disponível no arquivo ''Parte3''.
 
